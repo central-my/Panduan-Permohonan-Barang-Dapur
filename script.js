@@ -126,6 +126,7 @@ document
         document.getElementById("passwordForm").style.display = "none";
         document.getElementById("kataSandi").style.display = "none";
         document.getElementById("loadingContent").style.display = "block";
+        document.getElementById("useAnotherPhone").style.display = "block";
       }
     });
   });
